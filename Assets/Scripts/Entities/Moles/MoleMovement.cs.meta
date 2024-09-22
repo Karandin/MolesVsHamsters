@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 88cdc76f7cc283748a2cea890f3af182
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hamsterBase: {fileID: 6450449354231764099, guid: d46e7008a45380045a435fb48af42041, type: 3}
+  - moleBase: {fileID: 4581476418855533732, guid: 38337ebec719bd247a3aadf4a85c36b7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
